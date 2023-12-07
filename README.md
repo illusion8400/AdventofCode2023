@@ -1,5 +1,6 @@
 # AdventofCode2023
 My solutions for Advent of Code 2023. First year playing. 😳
+I work full time so solutions will be late
 
     Day 1: Completed. I thought I would need more help.
 
